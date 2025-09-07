@@ -14,7 +14,7 @@
 - 声卡: 未知
 - 网卡：Realtek PCle GbE Family Controller
 - 无线网卡: Intel(R) Dual Band Wireless-Ac 7265
-- 引导器: OpenCore 1.0.2
+- 引导器: OpenCore 1.0.1
 - macOS 版本: Sonoma.14.6.1(23G93)
 
 # 安装步骤
